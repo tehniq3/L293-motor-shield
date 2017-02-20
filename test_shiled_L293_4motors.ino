@@ -96,4 +96,4 @@ void loop()
 // pause
   delay(pauza);
   
-}  // sfarsit proigram   - end main loop
+}  // sfarsit program   - end main loop
