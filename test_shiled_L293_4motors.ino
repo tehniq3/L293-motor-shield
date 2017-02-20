@@ -2,7 +2,7 @@
 // Programa original : Arduino Motor Shield - Controle motores DC
 // Autor : Arduino e Cia
 // http://www.arduinoecia.com.br/2014/07/arduino-motor-shield-l293d.html
-// adapted by Nicu FLORICA (nbiq_ro) from http://www.tehnic.go.ro
+// adapted by Nicu FLORICA (niq_ro) from http://www.tehnic.go.ro
 // and http://www.arduinotehniq.com/
 
 // se foloseste libraria AFMotor
